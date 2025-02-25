@@ -1,5 +1,5 @@
 1
 Gamesense
-Fuck-esoterik
+Fuck_esoterik
 skeet.png
 skeet.dll
