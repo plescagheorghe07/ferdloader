@@ -1,6 +1,11 @@
-1
+2
 Gamesense
 Fuck_esoterik_yeah!
 skeet.png
 skeet.dll
+null
+Fatality
+Low_fps_warning
+fatality.png
+fatality.dll
 null
