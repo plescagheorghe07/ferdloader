@@ -9,7 +9,7 @@ Bipolar_cheat
 primordial.png
 primordial.dll
 primordial_module.dll
-Onetapv3
+Onetap_v3
 Buggy_sometimes
 otcv3.png
 otcv3.dll
